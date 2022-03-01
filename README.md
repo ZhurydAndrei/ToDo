@@ -4,4 +4,4 @@ Technology:
 - vanillaJS
 - localStorage
 
-GitHub Pages: https://github.com/ZhurydAndrei/ToDo
+GitHub Pages: https://zhurydandrei.github.io/ToDo/
