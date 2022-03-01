@@ -1,4 +1,5 @@
-##TODO
+#TODO
+
 Technology:
 - vanillaJS
 - localStorage
